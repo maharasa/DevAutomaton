@@ -53,7 +53,7 @@ However, if you use an application like Dev Automaton to automate the process, i
      - +971 525696025 (UAE)     
      - +91 8667454656 (India)
 
-### download Free Trial windows application offline  https://github.com/maharasa/DevAutomaton/tree/main/MDAMauiApp/Win_App_Offline_Trial_version/MDAMauiApp_1.0.0.1_Test
+
 
 
 # About me
