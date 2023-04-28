@@ -45,6 +45,7 @@ However, if you use an application like Dev Automaton to automate the process, i
  - Web application deployment
  - Running as a Windows application with online and offline modes
  - Backend database support for Mongo DB, SQL Server, Oracle, and MySQL.
+ - Join with us in SAAS Model
 
 ## Writing Detailed Technical Specifications and Software Requirements Using Dev Automaton
 
