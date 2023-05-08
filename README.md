@@ -4,11 +4,11 @@
 
 ## Introducing Dev Automation: Simplifying Software Development 
 
- ### Create your own low code platform with ease using Dev Automaton, stop buying third party  low code platform.  
+ ### write your technical specification with Dev automaton in a mordern format to Simplifying Software Development life cycle.
 
  Let Dev Automation simplify your software development process! Here are some key points about this game-changing software:
 
-Revolutionize the way you approach software development with Dev Automaton! Our powerful software application is designed to streamline your development processes, enabling you to effortlessly create detailed technical specifications and software requirements. Say goodbye to tedious and time-consuming manual coding - Dev Automaton's advanced source code automation module can automate your source code generation with ease, freeing up your time and resources for more important tasks. And with AI technology like Chat GPT and Google Bard at your disposal, generating source code that perfectly fits your requirements has never been easier. Upgrade your development game and unlock new levels of productivity with Dev Automaton.
+Revolutionize the way you approach software development with Dev Automaton! Our powerful software application is designed to streamline your development processes, enabling you to effortlessly create detailed technical specifications. Say goodbye to tedious and time-consuming manual coding - Dev Automaton's advanced source code automation module can automate your source code generation with ease, freeing up your time and resources for more important tasks. Use AI technology like Chat GPT and Google Bard at your to faster development. Upgrade your development game and unlock new levels of productivity with Dev Automaton.
 ## Feature
 - write your comprehensive software requirements and technical specifications in a modern format in one place.
 
@@ -27,9 +27,13 @@ Revolutionize the way you approach software development with Dev Automaton! Our 
 - Technology independent. You can use any technology. (.net, java, node, angular, react,blazor..)
 - Don't buy Low code platform instead of create your own low code platform using Dev-automaton.
 
+## Advantages of writing technical specification 
+- easy to write,
+- easy to re-call read
+- you can automate repeatative task
 
-
-## What is source code automation?
+## Create your own low code platform with ease using Dev Automaton, stop buying third party  low code platform.  
+### What is source code automation?
   If you have 100 text boxes in your project while developing, you would need to write source code 100 times like this:
 
 < input type=“text” name=“name_of_control” />
@@ -47,7 +51,7 @@ However, if you use an application like Dev Automaton to automate the process, i
  - Backend database support for Mongo DB, SQL Server, Oracle, and MySQL.
  - Join with us in SAAS Model
 
-## Writing Detailed Technical Specifications and Software Requirements Using Dev Automaton
+
 
 ## Any queries or Request a Demo. 
     - maharasas1992@gmail.com      
