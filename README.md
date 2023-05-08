@@ -30,7 +30,9 @@ Revolutionize the way you approach software development with Dev Automaton! Our 
 ## Advantages of writing technical specification 
 - easy to write,
 - easy to re-call or read
-- you can automate repeatative task
+- Generate source code automatically
+- preview your application
+- you can automate repeatative task.
 
 ## Create your own low code platform with ease using Dev Automaton, stop buying third party  low code platform.  
 ### What is source code automation?
