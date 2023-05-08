@@ -1,5 +1,5 @@
 # Dev Automaton 
-### your code, your Choose, Don’t rely on third party
+### Make it simple
 
 
 ## Introducing Dev Automation: Simplifying Software Development 
