@@ -27,21 +27,37 @@ Revolutionize the way you approach software development with Dev Automaton! Our 
 - Technology independent. You can use any technology. (.net, java, node, angular, react,blazor..)
 - Don't buy Low code platform instead of create your own low code platform using Dev-automaton.
 
-## Advantages of writing technical specification 
-- easy to write,
-- easy to re-call or read
-- Generate source code automatically
-- preview your application
-- you can automate repeatative task.
+# Simplify your software development process and achieve faster results with Dev Automaton.
 
-## Create your own low code platform with ease using Dev Automaton, stop buying third party  low code platform.  
-### What is source code automation?
-  If you have 100 text boxes in your project while developing, you would need to write source code 100 times like this:
+Just writing a few lines of text as a user story doesn't give your development team the complete picture. This often leads to misunderstandings and confusion, resulting in incorrect development or implementation. This, in turn, requires rework, extensive discussions, and more meetings, jeopardizing the timely delivery of your project.
 
-< input type=“text” name=“name_of_control” />
+Dev Automaton streamlines the entire development journey, ensuring clear communication and minimizing the chances of errors. Our software empowers your team to visualize and comprehend the complete development requirements, enabling them to deliver accurate and efficient solutions. Say goodbye to unnecessary rework, endless discussions, and missed deadlines—Dev Automaton helps you stay on track and achieve success.
 
-However, if you use an application like Dev Automaton to automate the process, it can generate source code automatically for any type of technology and any type of source code based on your requirements. This way, you don’t need to write repetitive source code tasks again and again. With Dev Automaton, you can save time and effort by automating these tasks. 
+# Write Technical Specifications Effortlessly
+Creating your technical specification is now a breeze with Dev Automaton. It's incredibly easy and quick to write your technical specifications in just a few minutes.
 
+Start by creating your pages, elements, and business objects. Simply type the element name, select the UI controls, and provide the necessary details. Don't worry about UI controls and details—this entire section is dynamic and expandable, allowing you to configure it as per your needs. You can also add or modify your own UI controls, properties, or details.
+
+# Choose Your Layout and Design
+Select your desired layout or import and create your own themes. This is a one-time activity, and once you've imported or created your themes or layouts for your project, you're all set. Then, simply map or drag and drop your page elements into the layout's placeholder. Voila! Your page design is ready. Preview your page to see the actual result, saving you time and effort compared to creating mockups.
+
+# Define System Behavior with Ease
+Say goodbye to time-consuming documentation and flowchart creation. Dev Automaton offers a powerful technique to solve these problems. Writing your system or software behavior becomes a breeze.
+
+Navigate to the events section and select the desired event. Describe your actions or behavior in simple, step-by-step English text. Don't worry about spelling mistakes—Dev Automaton provides intelligent suggestions and options. You can also select elements or business objects without any confusion or misunderstanding. Readers can easily understand the behavior and get more details by clicking on the elements. The same technique can be used to define your API behavior and write test cases.
+
+# The Benefits of Writing Technical Specifications with Dev Automaton
+Writing your technical specifications with Dev Automaton offers numerous advantages. It provides a clear vision to your development and QA teams on what needs to be done and how to do it. It's easy to recall, making it helpful when onboarding new team members who can quickly understand and read the system behavior.
+
+You can track element and UI control usage and references. For example, you can easily see how many text boxes or dropdowns are used in your project and where they are referenced.
+
+In just one click, you can generate the entire project's source code from scratch. You can also generate source code for individual pages or components.
+
+With Dev Automaton's source code automation module, you can automate your development activities. You can create a template from your tested source code and feed it into the source code automation tool. Whenever you encounter a similar requirement, the tool will automatically generate source code based on your template.
+
+Dev Automaton can generate source code automatically even without your source code template. By utilizing source code generation AI like Chat GPT or Google Board, you can provide your API keys to Dev Automaton. It will read your requirements from the technical specification and convert it into input for the AI model to generate source code.
+
+You have the flexibility to generate source code in different ways. You can feed your own source code as a template or use Chat GPT
 ## what is dev Automaton
   https://youtu.be/cJD1l9ixO-4
 
