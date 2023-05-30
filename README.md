@@ -84,13 +84,6 @@ https://github.com/maharasa/DevAutomaton/tree/main/WinAppOffLineMSIX
 # About me
 https://github.com/maharasa/About-Me/
 
-## what we are looking for?
-  - We are seeking investors and contributors for our product who can help us improve it. If you’re interested in learning more about our product or would like to contribute to its development, please contact us at the above details.     
-    
-     
- Web application developers are especially welcome.
-
- - Use it for free and write your valuable feedback to us.
 
   
 
