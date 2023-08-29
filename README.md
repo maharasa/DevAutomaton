@@ -44,7 +44,7 @@ If you are looking for a way to improve the efficiency and quality of your softw
 
 - you can create or import your own UI controls and themes.
 
-- Preview your page design in real-time, using your preferred project layout and UI controls.
+- Preview your page design in real-time, using your own project layout themes and UI controls.
 
 - Generate a complete mockup website for your project with a single click.
 
