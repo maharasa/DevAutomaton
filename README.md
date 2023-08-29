@@ -80,7 +80,7 @@ Dev Automaton can generate source code automatically even without your source co
 You have the flexibility to generate source code in different ways. You can feed your own source code as a template or use Chat GPT
 ## what is dev Automaton
  ### Intro https://www.youtube.com/watch?v=rKmUTZjrrhI
- ### source code automation https://youtu.be/cJD1l9ixO-4
+ ### More about source code automation https://youtu.be/cJD1l9ixO-4
 
 ## Deployment options
   Dev Automaton offers various deployment options for your convenience, including:
