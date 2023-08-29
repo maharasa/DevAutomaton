@@ -105,7 +105,7 @@ You have the flexibility to generate source code in different ways. You can feed
 
 
 ## download DevAutomaton for windows offline (free version)
-https://github.com/maharasa/DevAutomaton/tree/main/WinAppOffLineMSIX
+## Download now https://apps.microsoft.com/store/detail/dev-automaton/9P0HH5NGK6V5?hl=en-in&gl=in
 
 # About me
 https://github.com/maharasa/About-Me/
