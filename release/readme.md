@@ -1,4 +1,4 @@
-# Release history
+# Release history - Dev Automaton
 ## Release 1.0
 
 - Software developers can download the Dev Automaton application from the Windows Store.
