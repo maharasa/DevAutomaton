@@ -98,7 +98,8 @@ You have the flexibility to generate source code in different ways. You can feed
      - +91 8667454656 (India)
 
 
-## download DevAutomaton for windows offline (free version)
+## download DevAutomaton for Windows offline (free version)
+Click here for Release notes=> https://github.com/maharasa/DevAutomaton/blob/main/release/readme.md
 ## Download now https://apps.microsoft.com/store/detail/dev-automaton/9P0HH5NGK6V5?hl=en-in&gl=in
 
 # About me
