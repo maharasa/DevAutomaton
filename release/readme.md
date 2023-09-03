@@ -1,6 +1,7 @@
 ### Release History - Dev Automaton
 # Release 1.0 (Initial Release)
 - **Application Download:** Software developers can download the Dev Automaton application from the Windows Store (Both Mode offline/online).
+https://apps.microsoft.com/store/detail/dev-automaton/9P0HH5NGK6V5?hl=en-us&gl=us 
 - **Requirements Specification:** Developers can define requirements for their application pages, specifying details about page elements like text boxes, forms, popups, and their properties (e.g., maximum length, required, visibility).
 - **Page Preview:** Users can preview their application pages using their chosen themes or layouts.
 - **Technical Descriptions:** Developers can provide technical information about page elements, including actions upon button clicks, validation rules, and API calls.
