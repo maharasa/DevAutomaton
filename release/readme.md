@@ -8,8 +8,8 @@
 - They can create their own business objects and their properties.
 - They can write technical information about APIs, such as their input and output, what they do, and their behavior.
 - They can define their own UI controls and their properties (e.g., trees, list boxes, and tab views).
-- They can feed their own source code for preview HTML or other technologies (such as Angular or React) to the UI controls - - they have defined, and generate source code for their page requirements.
-- They can define their own layouts and feed the source code for preview HTML or other technologies to them.
+- They can feed their own source code for preview HTML or other technologies (such as Angular or React) to the UI controls - - they have defined, and generated source code for their page requirements.
+- They can define their own layouts and feed the source code for previewing HTML or other technologies to them.
 - They can export their preview HTML file.
 They can view the UI control usage report, which shows how many times each UI control is used, where they are used, and on which pages they are used.
 ## Release 2.0
@@ -17,6 +17,8 @@ They can view the UI control usage report, which shows how many times each UI co
 - Software developers can integrate any source code or computer program writing AI with Dev Automaton and generate source code against their requirements.
 - They can generate a full project mockup in a single click.
 - They can define AI input text as a template for source code generation against their requirements.
-- They can generate full UI project source code with 60% accuracy in any technologies (such as React, Angular, Blazor MAUI, or Android).
-- They can generate source code for API source code with 60% accuracy in any technologies (such as Node.js, Java, or Python).
+- They can generate full UI project source code with 60% accuracy in any technology (such as React, Angular, Blazor MAUI, or Android).
+- They can generate source code for API source code with 60% accuracy in any technology (such as Node.js, Java, or Python).
 - If the user does not provide source code templates, Dev Automaton should call AI APIs and generate source code against the requirements.
+## Release 3.0
+     coming soon...
