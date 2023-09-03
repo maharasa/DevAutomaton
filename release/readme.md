@@ -17,9 +17,9 @@
 
 - Software developers can integrate any source code or computer program writing AI with Dev Automaton and generate source code against their requirements.
 - They can generate a full project mockup in a single click.
-- They can define AI input text as a template for source code generation against their requirements.
+- They have the ability to modify or generate the input that AI APIs receive for source code generation to align with their specific requirements.
 - They can generate full UI project source code with 60% accuracy in any technology (such as React, Angular, Blazor MAUI, or Android).
 - They can generate source code for API source code with 60% accuracy in any technology (such as Node.js, Java, or Python).
-- If the user does not provide source code templates, Dev Automaton should call AI APIs and generate source code against the requirements.
+- In the absence of user-provided source code templates, Dev Automaton will utilize AI APIs to automatically generate source code tailored to the specified requirements.
 ## Release 3.0
      coming soon...
