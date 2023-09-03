@@ -14,18 +14,18 @@ Dev Automaton can help you create clear and concise software requirements that a
 ### Plan your development approach: 
 Dev Automaton can help you create a development plan that outlines your goals, requirements, and tasks.
 ### Automate your development tasks: 
-Dev Automaton can automate your development tasks, such as code generation, testing, and deployment.
+Dev Automaton can automate your development tasks, such as code generation, and testing.
 ### Generate source code: 
 Dev Automaton can generate source code in a variety of programming languages, such as HTML, Angular, C#, and Java.
 ### Integrate AI to generate source code:
 Dev Automaton can integrate with AI services like ChatGPT, Google Bard, or any other AI APIs to generate source code.
-### Use your own source code as template: 
+### Use your own source code as a template: 
 Dev Automaton can use your own source code as a template to generate new source code.
-### Preview your work in real time: 
+### Preview your work in real-time: 
 Dev Automaton can show you a real-time preview of your application pages, so you can see how your changes will look before you commit them.
-### Export preview for whole project or application: 
+### Export preview for the whole project or application: 
 Dev Automaton can export a preview of your whole project or application in a single click, so you can share it with your team or stakeholders.
-If you are looking for a way to automate your software development tasks, preview your work in real time, and export your work in a single click, Dev Automaton is a great option.
+If you are looking for a way to automate your software development tasks, preview your work in real-time, and export your work in a single click, Dev Automaton is a great option.
  
 
 
@@ -54,7 +54,7 @@ Just writing a few lines of text as a user story doesn't give your development t
 Dev Automaton streamlines the entire development journey, ensuring clear communication and minimizing the chances of errors. Our software empowers your team to visualize and comprehend the complete development requirements, enabling them to deliver accurate and efficient solutions. Say goodbye to unnecessary rework, endless discussions, and missed deadlines—Dev Automaton helps you stay on track and achieve success.
 
 # Write Technical Specifications Effortlessly
-Creating your technical specification is now a breeze with Dev Automaton. It's incredibly easy and quick to write your technical specifications in just a few minutes.
+Creating your technical specifications is now a breeze with Dev Automaton. It's incredibly easy and quick to write your technical specifications in just a few minutes.
 
 Start by creating your pages, elements, and business objects. Simply type the element name, select the UI controls, and provide the necessary details. Don't worry about UI controls and details—this entire section is dynamic and expandable, allowing you to configure it as per your needs. You can also add or modify your own UI controls, properties, or details.
 
@@ -88,17 +88,17 @@ You have the flexibility to generate source code in different ways. You can feed
  - Web application deployment
  - Running as a Windows application with online and offline modes
  - Backend database support for Mongo DB, SQL Server, Oracle, and MySQL.
- - Join with us in SAAS Model
+ - Join us in the SAAS Model
 
 
 
-## Any queries or Request a Demo. 
+## Any queries or Requests a Demo. 
     - maharasas1992@gmail.com      
      - +971 525696025 (UAE)     
      - +91 8667454656 (India)
 
 
-## download DevAutomaton for Windows offline (free version)
+## Download DevAutomaton for Windows offline (free version)
 Click here for Release notes=> https://github.com/maharasa/DevAutomaton/blob/main/release/readme.md
 ## Download now https://apps.microsoft.com/store/detail/dev-automaton/9P0HH5NGK6V5?hl=en-in&gl=in
 
