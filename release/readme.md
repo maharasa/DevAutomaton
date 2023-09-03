@@ -1,25 +1,26 @@
-# Release history - Dev Automaton
-## Release 1.0
-
-- Software developers can download the Dev Automaton application from the Windows Store.
-- They can write requirements for their application pages, including details about page elements such as text boxes, forms, and popups, as well as their properties (e.g., maximum length, required, visibility).
-- They can preview their application pages with their own theme or layout.
-- They can write technical information about page elements, such as what should happen when a button is clicked, what validation should be triggered, and which APIs should be called.
-- They can create their own business objects and their properties.
-- They can write technical information about APIs, such as their input and output, what they do, and their behavior.
-- They can define their own UI controls and their properties (e.g., trees, list boxes, and tab views).
-- They can feed their own source code for preview HTML or other technologies (such as Angular or React) to the UI controls
-- They can feed their own source as a template to Dev Automaton. and generate source code for their page requirements.
-- They can define their own layouts and feed the source code for previewing HTML or other technologies to them.
-- They can export their preview HTML file.
-- They can view the UI control usage report, which shows how many times each UI control is used, where they are used, and on which pages they are used.
-## Release 2.0
-
-- Software developers can integrate any source code or computer program writing AI with Dev Automaton and generate source code against their requirements.
-- They can generate a full project mockup in a single click.
-- They have the ability to modify or generate the input that AI APIs receive for source code generation to align with their specific requirements.
-- They can generate full UI project source code with 60% accuracy in any technology (such as React, Angular, Blazor MAUI, or Android).
-- They can generate source code for API source code with 60% accuracy in any technology (such as Node.js, Java, or Python).
-- In the absence of user-provided source code templates, Dev Automaton will utilize AI APIs to automatically generate source code tailored to the specified requirements.
-## Release 3.0
-     coming soon...
+### Release History - Dev Automaton
+# Release 1.0 (Initial Release)
+- **Application Download:** Software developers can download the Dev Automaton application from the Windows Store.
+- **Requirements Specification:** Developers can define requirements for their application pages, specifying details about page elements like text boxes, forms, popups, and their properties (e.g., maximum length, required, visibility).
+- **Page Preview:** Users can preview their application pages using their chosen themes or layouts.
+- **Technical Descriptions:** Developers can provide technical information about page elements, including actions upon button clicks, validation rules, and API calls.
+- **Custom Business Objects:** Developers can create their own business objects and define their properties.
+- **API Documentation:** Users can document APIs, including input/output, functionality, and behavior.
+- **Custom UI Controls:** Developers have the freedom to define their own UI controls and set properties (e.g., trees, list boxes, tab views).
+- **Source Code Integration:** Developers can inject source code for preview (HTML or other technologies) into UI controls.
+- **Source Code Templates:** Dev Automaton supports source code templates, enabling automatic generation of source code for specified page requirements.
+- **Layout Customization:** Users can define custom layouts and apply source code for preview (HTML or other technologies).
+- **HTML Export:** Dev Automaton allows exporting preview HTML files.
+- **Usage Reports:** Developers can access a UI control usage report, revealing usage statistics for each control, where they are used, and on which pages.
+# Release 2.0
+- **AI Integration:** Developers can seamlessly integrate source code or AI-powered program writing tools with Dev Automaton for automated source code generation.
+- **One-Click Mockup:** Users can generate full project mockups with a single click.
+- **AI Input Customization:** Developers can modify AI API inputs to align with specific requirements.
+- **Universal Code Generation:** Dev Automaton can generate full UI project source code with 60% accuracy in any technology (e.g., React, Angular, Blazor MAUI, or Android).
+- **API Code Generation:** Developers can generate source code for APIs with 60% accuracy in various technologies (e.g., Node.js, Java, Python).
+- **AI-Powered Code Generation:** In the absence of user-provided source code templates, Dev Automaton leverages AI APIs to automatically generate source code tailored to specified requirements.
+# Release 3.0
+## This release will introduce a number of new features and improvements, including:
+- Support for generating source code in more programming languages
+- Improved accuracy of AI-generated source code
+- New features for customizing the Dev Automaton experience
