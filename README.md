@@ -6,7 +6,7 @@
 
 ## Introducing Dev Automation: Simplifying Software Development 
 
-### Dev Automaton is a software development tool that helps you write your software requirements, plan your development approach, automate your development tasks, preview your work in real-time, and export your full project preview mockup in a single click and generate more than 70% souce code before starting actual development.
+### Dev Automaton is a comprehensive software development tool designed to streamline your workflow. It assists in writing software requirements, planning development strategies, automating tasks, providing real-time previews, and generating project mockups with just one click. Additionally, it automates source code generation, significantly reducing the need for manual coding.
 
 Dev Automaton is a powerful tool that can help you save time and improve the quality of your software development. Here are some of the things that Dev Automaton can do:
 
