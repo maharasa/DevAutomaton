@@ -8,7 +8,7 @@ Creating a project is the initial step in utilizing Dev Automaton. It's consider
 - Click on the project page to proceed.
 
 ## Create a New Project:
-
+![project List Page](https://raw.githubusercontent.com/maharasa/DevAutomaton/main/Tutorial/Project/Project%20List%20page.png)
 1. In the project page, you'll find a list of all projects already created. Click on the "New" button to start creating a new project.
 2. Enter the project name and description.
 3. Select the project type from the options provided.
