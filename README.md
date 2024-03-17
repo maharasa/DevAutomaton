@@ -1,4 +1,5 @@
 # Dev Automaton 
+
 ## Download Windows APP now https://apps.microsoft.com/store/detail/dev-automaton/9P0HH5NGK6V5?hl=en-in&gl=in
 ### Make it simple
 
@@ -8,6 +9,8 @@
 ### Dev Automaton is a software development tool that helps you write your software requirements, plan your development approach, automate your development tasks, preview your work in real-time, and export your full project preview mockup in a single click.
 
 Dev Automaton is a powerful tool that can help you save time and improve the quality of your software development. Here are some of the things that Dev Automaton can do:
+
+![overview image](https://raw.githubusercontent.com/maharasa/DevAutomaton/main/Images/IntroOverviewDevAutomaton.png)
 
 ### Write your software requirements in a technical format: 
 Dev Automaton can help you create clear and concise software requirements that are easy to understand for both technical and non-technical stakeholders.
