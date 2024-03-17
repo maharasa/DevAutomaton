@@ -24,6 +24,8 @@ Creating a project is the initial step in utilizing Dev Automaton. It's consider
 ## Customize Project Details:
 
 - If you wish to add new fields such as project domain, technologies used, or project duration, follow these steps:
+![project List Page image](https://raw.githubusercontent.com/maharasa/DevAutomaton/main/Tutorial/Project/Project%20More%20Details.png)
+  
   1. Click on the "Settings" button.
   2. Alternatively, go to the settings menu and open the dynamic form setup. Select the "Project Additional Details" option.
   3. This will display form details where you can add your desired fields such as dropdowns, text boxes, or tables.
