@@ -36,7 +36,7 @@ Page elements or UI controls (e.g., textboxes, dropdowns) can be added to pages 
 
 ## Adding Events to UI Controls
 Events can be added to UI controls to define their behavior:
-
+![project menu image](https://raw.githubusercontent.com/maharasa/DevAutomaton/main/Tutorial/PageDesign/Page%20Element%20Edit.png)
 6. **Adding Events:**
    - In the UI control edit popup, navigate to the events grid.
    - Click on "Add New Event" to define events like change, click, etc.
@@ -49,6 +49,7 @@ Preview pages to visualize the design and interactions:
    - Expand the Preview section and click "Preview" to interact with the live preview.
    - Export the file if needed.
    - Modify layout styles as required by editing the page.
+	![project menu image](https://raw.githubusercontent.com/maharasa/DevAutomaton/main/Tutorial/PageDesign/PreviewSettings.png)
 
 ## BRS & Document Section
 Document overall page requirements and attach relevant documents:
